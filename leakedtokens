@@ -1,0 +1,28 @@
+Good morning
+If you are reading this message, it means that I somehow got access to your bot's token
+
+There are many kinds of people in this world
+I decided to invalidate this token so that no one uses it for improper purposes
+
+Even if someone helps you with something, NEVER give your bot token to strangers
+I could just take your token and put in risk you and everybody that is in server wich bot
+I did not do that
+
+Bot tokens are sensitive credentials that should be kept confidential to ensure the security of your bot and the data it handles.
+If a bot token is leaked or shared publicly, it can be used by unauthorized individuals to access or control your bot, potentially leading to security breaches or unauthorized actions.
+
+To protect your bot and maintain its security, it's crucial to keep your bot tokens private and avoid sharing them publicly.
+If you suspect that your bot token has been leaked or compromised, you should immediately revoke the token and generate a new one.
+Additionally, it's recommended to implement strong security measures, such as access control and encryption, to safeguard your bot and its data.
+
+I'm sorry for the problem, I'm doing it for your safety and learning how to stay safe
+
+
+If you use botghost:
+--Reset bot token and put it to https://dashboard.botghost.com/dashboard/settings
+
+
+
+--Tokens:
+MTE0Mjg2NjEyOTAxMDgzOTU3Mg.GJrL8h.oNKBXW4zDn4RmXw6C3WP19JGKy-JiNcK1ja_98
+MTI2MDkwNTI4OTgwOTM5OTg5OA.GDWJI6.1cBtXvPVTcrF6E8hKeGUtNd1V47oLXSoJ6_hiE
